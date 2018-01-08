@@ -1,0 +1,75 @@
+Cmp-Mod V01 Created by PcbNew   date = 2017. 12. 24. 1:13:08
+
+BeginCmp
+TimeStamp = 5A3EF0BF
+Path = /5A3BD8A0
+Reference = C1;
+ValeurCmp = 100u;
+IdModule  = Capacitors_SMD:CP_Elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF0D0
+Path = /5A3BD9FA
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF0EF
+Path = /5A3BD6E7
+Reference = J1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connectors:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF10F
+Path = /5A3BE226
+Reference = J2;
+ValeurCmp = ICSP HEADER;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF133
+Path = /5A3E7F27
+Reference = J3;
+ValeurCmp = TO_ANODES;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x16_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF14B
+Path = /5A3EB38D
+Reference = J4;
+ValeurCmp = TO_CATHODES;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF18F
+Path = /5A3BC5AB
+Reference = U1;
+ValeurCmp = ATMEGA16-16PU;
+IdModule  = Housings_DIP:DIP-40_W15.24mm_Socket_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF1DD
+Path = /5A3F0999
+Reference = U3;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm_Socket_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A3EF1AF
+Path = /5A3BC67D
+Reference = U2;
+ValeurCmp = LM7805;
+IdModule  = TO_SOT_Packages_THT:TO-220-3_Horizontal;
+EndCmp
+
+EndListe
